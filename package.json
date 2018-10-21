@@ -1,0 +1,22 @@
+{
+    "name": "monoshield",
+    "displayName": "MonoShield",
+    "description": "Amazing theme with Operator Mono font family",
+    "version": "0.0.1",
+    "publisher": "sescudero",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MonoShield",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonoShield-color-theme.json"
+            }
+        ]
+    }
+}
